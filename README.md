@@ -2,7 +2,7 @@
 
 Pomodoro
 
-![Screenshot_20240911_075613](https://github.com/user-attachments/assets/d3a3d22a-3bdf-4ab5-bac4-e5e323c46166)
+![Screenshot_20240911_151127](https://github.com/user-attachments/assets/f6c060ca-dc5b-4d10-af14-8458453705d7)
 
 ## Getting Started
 

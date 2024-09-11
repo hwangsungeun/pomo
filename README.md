@@ -1,6 +1,8 @@
 # pomo
 
-A new Flutter project.
+Pomodoro
+
+![Screenshot_20240911_075613](https://github.com/user-attachments/assets/d3a3d22a-3bdf-4ab5-bac4-e5e323c46166)
 
 ## Getting Started
 

@@ -65,6 +65,7 @@ class _HomeScreenState extends State<HomeScreen> {
       backgroundColor: Theme.of(context).scaffoldBackgroundColor,
       body: Column(
         children: [
+          // Flexible 영역을 균등하게 나눌수 있다
           Flexible(
             flex: 1,
             child: Container(
